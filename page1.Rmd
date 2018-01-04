@@ -14,6 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 # Interactive Plot
 First, let's make a ggplot of cars, speed vs. distance. 
 
+
+
+
 ```{r cars ggplot, fig.cap="A simple ggplot of car speed vs. distance"}
 # install.packages(plotly)
 library(plotly)
